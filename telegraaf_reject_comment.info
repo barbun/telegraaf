@@ -1,4 +1,0 @@
-name = Telegraaf Reject Comments
-description = Provides "reject" link for comments.
-core = 7.x
-dependencies[] = comment
